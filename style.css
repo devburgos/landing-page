@@ -22,7 +22,7 @@ body {
 }
 #nome {
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     color: rgb(9, 212, 9);
     border-bottom: 2px solid gray;
     font-family: 'Advent Pro', sans-serif;
@@ -32,7 +32,7 @@ h1:hover{
     color: yellow;
 }
 #conteudo1 {
-    height: 250px;
+    height: 260px;
     width: 35%;
     float: left;
     padding: 10px;
@@ -43,7 +43,7 @@ h1:hover{
     
 }
 #conteudo2 {
-    height: 250px;
+    height: 260px;
     width: 35%;
     float: right;
     padding: 10px;
@@ -68,12 +68,12 @@ p{
     font-family: 'Inconsolata', monospace;
 }
 footer{
-    height: 70px;
+    height: 80px;
     clear: both;
     text-align: center;
     border-top: 2px solid gray;
     padding: 10px;
 }
 #creditos{
-    padding-top: 10px;
+    padding-top: 5px;
 }
