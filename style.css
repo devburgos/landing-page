@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+
+*{
+    padding: 0px;
+    margin: 0px;            
+}
+body {
+    background-color: black;
+    color: white;
+   }
+
+#foto {
+    height: 200px;            
+    background: url('imagens/perfil.jpg') center top;
+    background-size: cover;            
+    border-radius: 40px 40px 40px 0px;
+    border: 4px solid rgb(9, 212, 9);      
+    width: 150px;
+    height: 150px;
+    margin: 15px auto 0px auto;               
+}
+#nome {
+    text-align: center;
+    padding: 20px;
+    color: rgb(9, 212, 9);
+    border-bottom: 2px solid gray;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 1.5em;   
+}
+h1:hover{
+    color: yellow;
+}
+#conteudo1 {
+    height: 220px;
+    width: 45%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    line-height: 25px;
+    font-family: 'Inconsolata', monospace;
+   
+    
+}
+#conteudo2 {
+    height: 220px;
+    width: 45%;
+    float: right;
+    padding: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Inconsolata', monospace;            
+}
+h3 {
+    padding-top: 10px;
+    font-family: 'Inconsolata', monospace;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:rgb(9, 212, 9);
+    text-decoration: underline;
+}
+       
+p{
+    font-family: 'Inconsolata', monospace;
+}
+footer{
+    height: 70px;
+    clear: both;
+    text-align: center;
+    border-top: 2px solid gray;
+    padding: 10px;
+}
+#creditos{
+    padding-top: 10px;
+}
