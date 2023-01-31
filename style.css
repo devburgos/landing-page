@@ -15,11 +15,11 @@ body {
     border: 4px solid rgb(9, 212, 9);      
     width: 150px;
     height: 150px;
-    margin: 10px auto 0px auto;               
+    margin: 15px auto 0px auto;               
 }
 #nome {
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     color:  rgb(9, 212, 9);
     border-bottom: 2px gray solid;
     font-family:  'Advent Pro' , sans-serif;
@@ -30,15 +30,16 @@ h1 :hover {
     color: yellow;
 }
 #carreira{
-    padding: 15px;
+    padding: 25px 0px 0px 0px;
     text-align: center;
     font-family: 'Inconsolata', monospace;
     margin: auto;
+    color: gray;
     
 }
 #conteudo1 {
     max-height: 240px;
-    width: 40%;
+    width: 45%;
     float: left;
     padding: 10px;
     text-align: center;
@@ -49,7 +50,7 @@ h1 :hover {
 }
 #conteudo2 {
     max-height: 250px;
-    width: 40%;
+    width: 45%;
     float: right;
     padding: 10px;
     text-align: center;
