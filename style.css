@@ -39,7 +39,7 @@ h1 :hover {
 }
 #conteudo1 {
     max-height: 240px;
-    width: 45%;
+    width: 40%;
     float: left;
     padding: 10px;
     text-align: center;
@@ -50,7 +50,7 @@ h1 :hover {
 }
 #conteudo2 {
     max-height: 250px;
-    width: 45%;
+    width: 40%;
     float: right;
     padding: 10px;
     text-align: center;
