@@ -1,6 +1,4 @@
 @charset "UTF-8";
-
-
 *{
     padding: 0px;
     margin: 0px;            
@@ -9,7 +7,6 @@ body {
     background-color: black;
     color: white;
    }
-
 #foto {
     height: 200px;            
     background: url('imagens/perfil.jpg') center top;
@@ -23,12 +20,13 @@ body {
 #nome {
     text-align: center;
     padding: 10px;
-    color: rgb(9, 212, 9);
-    border-bottom: 2px solid gray;
-    font-family: 'Advent Pro', sans-serif;
-    font-size: 1.2em;   
+    color:  rgb(9, 212, 9);
+    box-shadow:  2px gray solid;
+    font-family:  'Advent Pro' , sans-serif;
+    font-size:  1,2em ;
+    
 }
-h1:hover{
+h1 :hover {
     color: yellow;
 }
 #conteudo1 {
